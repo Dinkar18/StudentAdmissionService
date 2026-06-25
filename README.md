@@ -8,13 +8,17 @@ A role-based Android app that digitizes the education admission process in Bihar
 
 ## 📱 Screenshots
 
-| Splash | Login | Student Dashboard |
-|:------:|:-----:|:-----------------:|
-| ![Splash](docs/screenshots/splash.png) | ![Login](docs/screenshots/login.png) | ![Student](docs/screenshots/student.png) |
+| Splash | Login | Register |
+|:------:|:-----:|:--------:|
+| ![Splash](docs/screenshots/02.png) | ![Login](docs/screenshots/03.png) | ![Register](docs/screenshots/04.png) |
 
-| Agent Dashboard | Admin Dashboard | College Search |
-|:---------------:|:---------------:|:--------------:|
-| ![Agent](docs/screenshots/agent.png) | ![Admin](docs/screenshots/admin.png) | ![College](docs/screenshots/college.png) |
+| Student | Agent | Admin |
+|:-------:|:-----:|:-----:|
+| ![Student](docs/screenshots/05.png) | ![Agent](docs/screenshots/06.png) | ![Admin](docs/screenshots/07.png) |
+
+| College Search | Documents | Profile |
+|:--------------:|:---------:|:-------:|
+| ![College](docs/screenshots/08.png) | ![Docs](docs/screenshots/09.png) | |
 
 ---
 
