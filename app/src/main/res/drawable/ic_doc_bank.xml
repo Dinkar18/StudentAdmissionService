@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Roof triangle -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M12,2L2,7h20z" />
+    <!-- Pillars -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M5,9h2v8H5zM9,9h2v8H9zM13,9h2v8h-2zM17,9h2v8h-2z" />
+    <!-- Base -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M2,19h20v2H2z" />
+</vector>

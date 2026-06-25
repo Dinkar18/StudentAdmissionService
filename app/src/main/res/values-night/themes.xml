@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.PadhoBihar" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#90CAF9</item>
+        <item name="colorPrimaryContainer">#1A3A5C</item>
+        <item name="colorOnPrimary">#001D35</item>
+        <item name="colorSecondary">#80CBC4</item>
+        <item name="colorSecondaryContainer">#1A3C38</item>
+        <item name="colorSurface">#121212</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <item name="colorSurfaceVariant">#1E1E1E</item>
+        <item name="android:windowBackground">#0D0D0D</item>
+        <item name="android:statusBarColor">#0D0D0D</item>
+        <item name="android:navigationBarColor">#121212</item>
+
+        <!-- Global Font -->
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="Theme.PadhoBihar" parent="Base.Theme.PadhoBihar" />
+
+</resources>

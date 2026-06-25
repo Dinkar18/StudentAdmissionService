@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background circle -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+
+    <!-- Book (open) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,62 L38,42 C38,41 39,40 40,40 L52,40 C53,40 54,41 54,42 L54,62 L38,62 Z" />
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M54,62 L54,42 C54,41 55,40 56,40 L68,40 C69,40 70,41 70,42 L70,62 L54,62 Z" />
+
+    <!-- Book spine -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M53,40 L55,40 L55,62 L53,62 Z" />
+
+    <!-- Graduation cap -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M54,30 L40,36 L54,42 L68,36 Z" />
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,42 L68,36 L68,38 L54,44 Z" />
+
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M66,36 L66,46"
+        android:strokeColor="#FF6F00"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#FF6F00"
+        android:pathData="M66,46 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+
+    <!-- Bag strap hint -->
+    <path
+        android:fillColor="#00897B"
+        android:pathData="M44,62 L44,68 C44,70 46,72 48,72 L60,72 C62,72 64,70 64,68 L64,62 Z" />
+    <path
+        android:fillColor="#00695C"
+        android:pathData="M50,64 L58,64 L58,68 L50,68 Z"
+        android:strokeColor="#00695C"
+        android:strokeWidth="0" />
+
+</vector>

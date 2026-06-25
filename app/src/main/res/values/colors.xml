@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Education Theme - Blue/Teal -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="secondary">#00897B</color>
+    <color name="secondary_light">#4DB6AC</color>
+    <color name="accent">#FF6F00</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_light">#F5F9FF</color>
+    <color name="bg_card">#FFFFFF</color>
+    <color name="bg_gradient_start">#1565C0</color>
+    <color name="bg_gradient_end">#0097A7</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1A237E</color>
+    <color name="text_secondary">#546E7A</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Status Colors -->
+    <color name="status_inquiry">#FFA726</color>
+    <color name="status_docs">#42A5F5</color>
+    <color name="status_admitted">#66BB6A</color>
+    <color name="status_rejected">#EF5350</color>
+
+    <!-- Legacy -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="divider">#E0E0E0</color>
+</resources>

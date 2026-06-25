@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.PadhoBihar" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryContainer">#D6E4FF</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryContainer">#B2DFDB</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorSurfaceVariant">#F5F9FF</item>
+        <item name="android:windowBackground">@color/bg_light</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/white</item>
+
+        <!-- Global Font -->
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins</item>
+
+        <!-- Bottom Nav -->
+        <item name="bottomNavigationStyle">@style/Widget.PadhoBihar.BottomNav</item>
+    </style>
+
+    <style name="Theme.PadhoBihar" parent="Base.Theme.PadhoBihar" />
+
+    <!-- Splash theme -->
+    <style name="Theme.PadhoBihar.Splash" parent="Base.Theme.PadhoBihar">
+        <item name="android:windowBackground">@color/primary</item>
+    </style>
+
+    <!-- Bottom Nav Style -->
+    <style name="Widget.PadhoBihar.BottomNav" parent="Widget.Material3.BottomNavigationView">
+        <item name="backgroundTint">@color/white</item>
+        <item name="itemActiveIndicatorStyle">@style/Widget.PadhoBihar.BottomNav.Indicator</item>
+    </style>
+
+    <style name="Widget.PadhoBihar.BottomNav.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="color">#D6E4FF</item>
+    </style>
+
+</resources>
